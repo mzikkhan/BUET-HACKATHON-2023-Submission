@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="-440 -440 880 880" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<circle r="425" fill="#bbb" stroke="#000" stroke-width="4"/>
+	<circle r="245" fill="#0000a7"/>
+	<path id="s" d="m-20-210c-1-38 1-73 2-102-3-19-2-38 3-55 1-6 1-9 1-9l2 1c2-7 5-14 9-21 8 13 17 26 28 39 61 31 176 93 241 151 30 8 57 12 81 12-9 16-22 30-37 40 14 25 20 53 20 80 36 16 61 52 61 94 0 57-47 104-104 104-31 0-59-14-78-36-4 2-9 3-14 4-7-4-14-8-20-11-45-2-89-22-120-56-15-5-28-9-41-12 0-1-1-1-1-2-4-7-8-16-11-25 5-10 10-20 13-31-7-39-11-85-12-131-6-12-14-24-23-34z" fill="#f00" stroke="#000" stroke-width="4"/>
+	<use xlink:href="#s" transform="rotate(240)"/>
+	<use xlink:href="#s" transform="rotate(120)"/>
+</svg>
