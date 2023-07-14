@@ -1,0 +1,1 @@
+export const artworkContractAddress = "0x32C9E89bA4520280579478c94d79CeD0b5B8aa55";
